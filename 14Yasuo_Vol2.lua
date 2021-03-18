@@ -1,4 +1,4 @@
-local Heroes = {"Yasuo"}
+local Heroes = {"Yasuo"} x
 
 if not table.contains(Heroes, myHero.charName) then return end
 
